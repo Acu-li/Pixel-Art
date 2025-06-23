@@ -9,6 +9,8 @@
 
 # Good to know
 
-Everything on the Site itself is browser based, and not uploaded to the Server
+Everything on the Site itself is browser based, and not uploaded to the Server.
+
 If you reload the Site, everything is reset and gone. 
+
 You can edit, Fork, Publish or do whatever with this Code. But please link to the Repo if you do so.
